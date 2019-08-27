@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb://localhost:27017/mern-blog",
+  "jwtSecret": "itsasecretdamnit",
+  "environment": "development",
+  "saltRounds": 12
+}
